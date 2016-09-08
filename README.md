@@ -1,3 +1,12 @@
+Updated for Hungarian providers: UPC Direct, DIGI, MindigTV
+2016.09.08.
+
+- added custom logo for Digisport HD 1 & 2
+- added custom logo for M4 Sport HD (light)
+- 98% of channels available, need to check again to be sure
+- some logos might not be the actual, and no svg is available for all
+- 
+
 # ABOUT
 
 All the full resolution channel logos and their link to the actual channel (=serviceref) are kept up2date in this repository. The end result are picons for Enigma2 tuners and Kodi mediacenter in combination with a compatible PVR backend.
